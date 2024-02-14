@@ -1216,7 +1216,7 @@ This may take up to a minute.</source>
     <name>SetupWidget</name>
     <message>
         <source>Finish Setup</source>
-        <translation>설정 완료</translation>
+        <translation>설정을 마무리하세요</translation>
     </message>
     <message>
         <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
